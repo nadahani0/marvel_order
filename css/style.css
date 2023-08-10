@@ -198,3 +198,7 @@ a:hover{
 .ph a:hover{
     color: red;
 }
+button:hover{
+    background-color: white;
+    color: black;
+}
